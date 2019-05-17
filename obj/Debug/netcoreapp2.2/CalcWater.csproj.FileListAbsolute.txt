@@ -1,0 +1,11 @@
+C:\Users\trago\OneDrive\Desktop\CalcWater\bin\Debug\netcoreapp2.2\CalcWater.deps.json
+C:\Users\trago\OneDrive\Desktop\CalcWater\bin\Debug\netcoreapp2.2\CalcWater.runtimeconfig.json
+C:\Users\trago\OneDrive\Desktop\CalcWater\bin\Debug\netcoreapp2.2\CalcWater.runtimeconfig.dev.json
+C:\Users\trago\OneDrive\Desktop\CalcWater\bin\Debug\netcoreapp2.2\CalcWater.dll
+C:\Users\trago\OneDrive\Desktop\CalcWater\bin\Debug\netcoreapp2.2\CalcWater.pdb
+C:\Users\trago\OneDrive\Desktop\CalcWater\obj\Debug\netcoreapp2.2\CalcWater.csprojAssemblyReference.cache
+C:\Users\trago\OneDrive\Desktop\CalcWater\obj\Debug\netcoreapp2.2\CalcWater.csproj.CoreCompileInputs.cache
+C:\Users\trago\OneDrive\Desktop\CalcWater\obj\Debug\netcoreapp2.2\CalcWater.AssemblyInfoInputs.cache
+C:\Users\trago\OneDrive\Desktop\CalcWater\obj\Debug\netcoreapp2.2\CalcWater.AssemblyInfo.cs
+C:\Users\trago\OneDrive\Desktop\CalcWater\obj\Debug\netcoreapp2.2\CalcWater.dll
+C:\Users\trago\OneDrive\Desktop\CalcWater\obj\Debug\netcoreapp2.2\CalcWater.pdb
